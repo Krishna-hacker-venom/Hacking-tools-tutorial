@@ -1,4 +1,4 @@
-# Hydra – Complete Notes & Tutorial
+# Hydra 
 
 > **Disclaimer:** This material is strictly for **ethical hacking, CTFs (Capture the Flag), and authorized penetration testing**. Using Hydra on systems without explicit permission is illegal and unethical.
 
